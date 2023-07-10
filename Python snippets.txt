@@ -1,4 +1,8 @@
 Python snippets
+<<<<<<< HEAD
 dsfsdfsdfdsfsdfsfsfg
+=======
+dsfsdfsdfdsfsdfsfsfh
+>>>>>>> arghya/try
 sdfsdfsdfsfx
 sdfsdfsfsfsfsdfsf
