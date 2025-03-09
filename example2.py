@@ -1,2 +1,0 @@
-print("Amrita Maitra fgfg")
-###
